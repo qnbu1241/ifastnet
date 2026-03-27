@@ -1,4 +1,4 @@
-<img width="3654" height="1273" alt="image" src="https://github.com/user-attachments/assets/38a561b5-3c59-4f31-9e69-50c5b2b461d5" /># iFastNet Review: NVMe Hosting From $29.99/year, Transparent Pricing With No Renewal Surprises
+# iFastNet Review: NVMe Hosting From $29.99/year, Transparent Pricing With No Renewal Surprises
 
 Let me be honest with you — finding a web host that doesn't try to trick you is genuinely harder than it sounds.
 
